@@ -17,7 +17,7 @@ namespace csharpProblems
                             case 'A':
                                 location++;
                                 break;
-                            case 'B':
+                            case 'C':
                                 location += 2;
                                 break;
                         }

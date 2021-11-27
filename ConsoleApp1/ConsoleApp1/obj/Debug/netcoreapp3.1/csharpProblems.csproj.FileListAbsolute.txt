@@ -1,0 +1,13 @@
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.csprojAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.AssemblyInfoInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.AssemblyInfo.cs
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.exe
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.deps.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.runtimeconfig.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.runtimeconfig.dev.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\csharpProblems.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\csharpProblems.genruntimeconfig.cache

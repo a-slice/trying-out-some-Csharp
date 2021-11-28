@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpProblems", "ConsoleApp1\csharpProblems.csproj", "{835B5449-01E0-46F0-8E3E-2A6698111E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpProblems", "ConsoleApp1\csharpProblems.csproj", "{835B5449-01E0-46F0-8E3E-2A6698111E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-sum", "..\Two-sum\ConsoleApp1\Two-sum.csproj", "{AF20563E-0559-462E-ADFE-EE57D43CC274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{835B5449-01E0-46F0-8E3E-2A6698111E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{835B5449-01E0-46F0-8E3E-2A6698111E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{835B5449-01E0-46F0-8E3E-2A6698111E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

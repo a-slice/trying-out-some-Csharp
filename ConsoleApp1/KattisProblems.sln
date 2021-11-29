@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpProblems", "ConsoleApp1\csharpProblems.csproj", "{835B5449-01E0-46F0-8E3E-2A6698111E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-sum", "..\Two-sum\ConsoleApp1\Two-sum.csproj", "{AF20563E-0559-462E-ADFE-EE57D43CC274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two-sum", "..\Two-sum\ConsoleApp1\Two-sum.csproj", "{AF20563E-0559-462E-ADFE-EE57D43CC274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarifa", "..\Tarifa\Tarifa\Tarifa.csproj", "{043D7FC9-165F-49E8-A252-9E93D37C2524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traingle Area", "Traingle Area\Traingle Area.csproj", "{0CA32768-1CD9-4F17-BA9E-54E4E12152E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF20563E-0559-462E-ADFE-EE57D43CC274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043D7FC9-165F-49E8-A252-9E93D37C2524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043D7FC9-165F-49E8-A252-9E93D37C2524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043D7FC9-165F-49E8-A252-9E93D37C2524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043D7FC9-165F-49E8-A252-9E93D37C2524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA32768-1CD9-4F17-BA9E-54E4E12152E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA32768-1CD9-4F17-BA9E-54E4E12152E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA32768-1CD9-4F17-BA9E-54E4E12152E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA32768-1CD9-4F17-BA9E-54E4E12152E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

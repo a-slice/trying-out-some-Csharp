@@ -1,0 +1,13 @@
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.exe
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.deps.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.runtimeconfig.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.runtimeconfig.dev.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\bin\Debug\netcoreapp3.1\Tarifa.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.csprojAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.AssemblyInfoInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.AssemblyInfo.cs
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\Tarifa\Tarifa\obj\Debug\netcoreapp3.1\Tarifa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.exe
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.deps.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.runtimeconfig.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.runtimeconfig.dev.json
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\bin\Debug\netcoreapp3.1\Traingle Area.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.csprojAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.AssemblyInfoInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.AssemblyInfo.cs
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.dll
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.pdb
+C:\Users\Alice\Documents\GitHub\trying-out-some-Csharp\ConsoleApp1\Traingle Area\obj\Debug\netcoreapp3.1\Traingle Area.genruntimeconfig.cache
